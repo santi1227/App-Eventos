@@ -1,5 +1,4 @@
 # App-Eventos
-
 Aplicación web para la gestión de eventos comunitarios, desarrollada con FastAPI, MongoDB, Nginx y frontend en HTML/CSS/JS.
 
 ## Estructura del Proyecto
